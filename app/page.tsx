@@ -76,7 +76,7 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 text-center">
-                  "How Many Bunks I Can Have" calculator and more exciting features!
+                  "How Many Classes I Have To Attend" calculator and more exciting features!
                 </p>
               </CardContent>
             </Card>
